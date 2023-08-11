@@ -11,7 +11,7 @@
     "homepage": "https://github.com/torian257x/rubixai",
     "keywords": ["Laravel", "RubixAi"],
     "require": {
-        "illuminate/support": "~7|~8",
+        "illuminate/support": "^10.0",
         "calebporzio/sushi": "^2.2",
         "torian257x/ai-php-rubix-wrap": "^0.9"
     },
